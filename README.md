@@ -40,7 +40,7 @@ Ensure you have the following installed:
 1. Clone this repository
 
 ```bash
-git clone https://github.com/ajikaka777/depin.git
+git clone https://github.com/ajikaka777/depined.git
 cd depin
 ```
 2. Install dependencies
