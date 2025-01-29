@@ -41,7 +41,7 @@ Ensure you have the following installed:
 
 ```bash
 git clone https://github.com/ajikaka777/depined.git
-cd depin
+cd depined
 ```
 2. Install dependencies
 
