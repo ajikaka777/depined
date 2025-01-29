@@ -16,7 +16,7 @@
 
 2. **Sign Up with Email**: Create an account using your email address.
 
-3. **Submit Access Code**: Use the access code: `0K5DMr0QMv85`
+3. **Submit Access Code**: Use the access code: `GoSofuLUziMd`
 
 4. **Download the Extension**: Install the Depined extension from the Chrome Web Store:  
    [Depined Extension on Chrome Web Store](https://chromewebstore.google.com/detail/depined/pjlappmodaidbdjhmhifbnnmmkkicjoc)
@@ -40,8 +40,8 @@ Ensure you have the following installed:
 1. Clone this repository
 
 ```bash
-git clone https://github.com/9William/Depined-Auto-Bot.git
-cd Depined-Auto-Bot
+git clone https://github.com/ajikaka777/depin.git
+cd depin
 ```
 2. Install dependencies
 
